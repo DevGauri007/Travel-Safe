@@ -1,6 +1,5 @@
-TravelSafe
+# TravelSafe
 
+## Project Screenshot
 
-
-Project Screenshot
-
+![TravelSafe Screenshot](screenshots/view.jpeg)
